@@ -1,7 +1,7 @@
 ## Notas
 Pagina de Virginia
 
-### SUBTITULO
+### SUBTITULO DESDE GITHUB
 No olviden hacer commits diarios 
 
 ## OTRO SUBTITULO
