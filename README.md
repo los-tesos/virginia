@@ -7,3 +7,7 @@ No olviden hacer commits diarios
 
 ## OTRO SUBTITULO
 virginia
+
+* comer
+* bailar
+* Ir a cine
